@@ -189,6 +189,15 @@ aside#sidebar{
 
 
 }
+.more{
+     clear: both;
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    text-indent: 40px;
+    
+     
+}
 footer{
      background-color: lightcoral;
      width: 100%;
